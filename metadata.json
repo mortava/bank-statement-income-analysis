@@ -1,0 +1,5 @@
+{
+  "name": "Bank Statement Income Analysis",
+  "description": "An AI-powered tool to upload bank statements, analyze deposits, and generate a comprehensive income analysis report for mortgage underwriting.",
+  "requestFramePermissions": []
+}
