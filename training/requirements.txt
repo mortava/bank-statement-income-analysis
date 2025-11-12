@@ -1,0 +1,13 @@
+# Agent Lightning Training Requirements
+
+# Core Agent Lightning
+agentlightning>=0.2.2
+
+# OpenAI API
+openai>=1.0.0
+
+# Data handling
+openpyxl>=3.1.0
+
+# Optional but recommended
+python-dotenv>=1.0.0
